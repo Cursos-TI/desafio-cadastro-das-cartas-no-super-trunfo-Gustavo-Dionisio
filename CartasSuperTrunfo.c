@@ -133,6 +133,6 @@ int main() {
             printf("\nOpção inválida! Encerrando...\n");
     }
 
-    return 0;
+
 }
 
